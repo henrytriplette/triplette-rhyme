@@ -1,0 +1,16 @@
+
+.hero .uk-search {
+    width: 60%;
+}
+
+.section-hero input[type=search],
+.section-sub-nav input[type=search] {
+    padding-left: 15px;
+    border-radius: 30px;
+    font-weight: 300;
+    background: #fff;
+}
+
+.section-hero .uk-search input[type=search]:focus {
+    background: #fff;
+}
